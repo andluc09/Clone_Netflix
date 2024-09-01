@@ -5,7 +5,7 @@
 <br><br>Clone da Netflix criado utilizando React.JS, Firebase e API TMDB
 </h1>
 
-Projeto Frontend - Site que assemelha-se a Netflix, colocando em prática React consumindo a API TMDB
+Projeto Frontend - Site que assemelha-se a Netflix, colocando em prática React consumindo a API TMDB.
 
 Link para o Vercel (implantação em produção): https://clonenetflix-7cgpbkfu6-andre-lucas-de-macedo-santos-projects.vercel.app
 
