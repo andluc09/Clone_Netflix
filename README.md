@@ -7,6 +7,8 @@
 
 Projeto Frontend - Site que assemelha-se a Netflix, colocando em prática React consumindo a API TMDB
 
+Link para o Vercel (implantação em produção): https://clonenetflix-7cgpbkfu6-andre-lucas-de-macedo-santos-projects.vercel.app
+
 ## Ferramentas utilizadas:
 
 * [React.js](https://react.dev/)
