@@ -2,7 +2,11 @@
 
 <h1 align="center">
 <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="Logotipo da NETFLIX" width="350" />
-<br><br>Clone da Netflix criado utilizando React.JS, Firebase e API TMDB
+<br><br>Clone da Netflix projetado com React.JS, Firebase e API TMDB
+</h1>
+
+<h1 align="center">
+    🎞️ UI Clone 🎬
 </h1>
 
 Projeto Frontend - Site que assemelha-se a Netflix, colocando em prática React consumindo a API TMDB.
@@ -50,6 +54,13 @@ Para executar o projeto localmente, siga estes passos:
     npm run preview
     ```
 8. Abra seu navegador e visite: [ http://http://localhost:4173/]( http://http://localhost:4173/) 
+
+<br>Uma opção é criar uma chave pessoal da API do TMDB (The Movie Database), inscrevendo-se em: https://www.themoviedb.org/
+
+<br>Depois de ter sua chave de API, modifique o arquivo .env no diretório raiz do projeto e adicione sua chave pessoal: 
+
+`VITE_PUBLIC_TMDB_API_KEY = " CHAVE_PESSOAL_TMDB "`
+<br><br>
 
 ## Ferramentas utilizadas:
 
